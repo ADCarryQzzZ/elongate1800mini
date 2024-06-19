@@ -1,0 +1,8 @@
+file_format: "1"
+id: elongate1800mini
+name: elongate1800mini
+type: shield
+url: 
+requires: [nrfmicro_13_52840]
+features:
+  - keys
