@@ -15,7 +15,7 @@
 include:
   # ipadk
   - board: nice_nano_v2
-    shield: ELONGATE1800mini
-    artifact-name: ELONGATE1800mini
+    shield: elongate1800mini
+    artifact-name: elongate1800mini
   - board: nice_nano_v2
     shield: settings_reset
