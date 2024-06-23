@@ -14,8 +14,8 @@
 ---
 include:
   # ipadk
-  - board: nrfmicro
+  - board: nrfmicro_13
     shield: elongate1800mini
     artifact-name: elongate1800mini
-  - board: nrfmicro
+  - board: nrfmicro_13
     shield: settings_reset
