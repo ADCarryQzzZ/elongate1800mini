@@ -1,1 +1,3 @@
-# zmk-config-ELONGATE1800mini
+# zmk-config-ELONGATE1800MINI
+用于 ELONGATE1800MINI的键位修改
+VIR—Xu77.
